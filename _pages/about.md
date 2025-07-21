@@ -10,7 +10,7 @@ redirect_from:
 About me
 ======
 - I am a PhD student at University of Electronic Science and Technology of China from 2024/09. Major in management science and engineering.
-- I received Bachelor’s Degree at University of Electronic Science and Technology of China in 2022. Major in business administration/Electronic Engineering.
+- I received Bachelor’s Degree at University of Electronic Science and Technology of China in 2022. Major in business administration and electronic engineering.
 
 Reward
 ======
