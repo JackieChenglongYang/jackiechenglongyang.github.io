@@ -19,6 +19,6 @@ Reward
 
 Publications
 ------
-- The three-way decision model and multi-attribute decision-making: Methodological traps and challenges
-  Decui Liang and Chenglong Yang
-  European Journal of Operational Research (2025 ABS4 FMSA).
+- The three-way decision model and multi-attribute decision-making: Methodological traps and challenges<br>
+  Decui Liang and Chenglong Yang<br>
+  European Journal of Operational Research (2025 ABS 4 FMS A).
