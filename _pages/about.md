@@ -9,7 +9,7 @@ redirect_from:
 
 About me
 ======
-- I am a PhD student at University of Electronic Science and Technology of China from 2024/09, under the supervision of [Decui Liang](). Major in management science and engineering.
+- I am a PhD student at University of Electronic Science and Technology of China from 2024/09. Major in management science and engineering.
 - I received Bachelor’s Degree at University of Electronic Science and Technology of China in 2022. Major in business administration/Electronic Engineering.
 
 Reward
@@ -26,12 +26,12 @@ Publications
 Working papers
 ------
   - **Alleviating forgetting effect in continuous learning via kernel density estimation for intuitionistic fuzzy stable sequential three-way decision**<br>
-  **Under Review**.
+   Under Review.
   - **A Study on the Impact Path of Iterative Innovation on Performance: Perspective of Innovation Diffusion** <br>
-  **Under Review**.
+   Under Review.
   - **Quality-driven dual-view three-way label integration for crowdsourcing**<br>
-  **In Progress**.
+   In Progress.
   - **Social network based representative refinement for group consensus decision making using two-stage robust optimization**<br>
-  **In Progress**.
+   In Progress.
   - **Pursuing equilibrium between stability and plasticity in dynamic multi-attribute decision-making**<br>
-  **In Progress**.
+   In Progress.
