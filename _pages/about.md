@@ -29,7 +29,7 @@ Working papers
    Under Review.
   - **A Study on the Impact Path of Iterative Innovation on Performance: Perspective of Innovation Diffusion** <br>
    Under Review.
-  - **Quality-driven dual-view three-way label integration for crowdsourcing**<br>
+  - **QTW-Crowd: A Quality-Driven Dual-View Three-Way Label Integration Method for Crowdsourcing**<br>
    In Progress.
   - **Social network based representative refinement for group consensus decision making using two-stage robust optimization**<br>
    In Progress.
