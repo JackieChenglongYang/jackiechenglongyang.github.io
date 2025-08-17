@@ -26,11 +26,11 @@ Publications
 Working papers
 ------
   - **Alleviating forgetting effect in continuous learning via kernel density estimation for intuitionistic fuzzy stable sequential three-way decision**<br>
-   Under Review.
+   Under Revision.
   - **A Study on the Impact Path of Iterative Innovation on Performance: Perspective of Innovation Diffusion** <br>
    Under Review.
   - **QTW-Crowd: A Quality-Driven Dual-View Three-Way Label Integration Method for Crowdsourcing**<br>
-   In Progress.
+   Under Review.
   - **Social network based representative refinement for group consensus decision making using two-stage robust optimization**<br>
    In Progress.
   - **Pursuing equilibrium between stability and plasticity in dynamic multi-attribute decision-making**<br>
